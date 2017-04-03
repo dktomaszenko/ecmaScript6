@@ -1,3 +1,7 @@
-/**
- * Created by dktomaszenko on 03/04/2017.
- */
+{
+    console.log(a); // undefined
+    console.log(b); // ReferenceError!
+    var a;
+    let b;
+
+}
